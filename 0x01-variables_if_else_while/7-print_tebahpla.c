@@ -3,6 +3,7 @@
  * main - entry point
  *
  * return: always 0
+ * Description: prints the lower case alphabets in reverse
  */
 
 int main(void)
