@@ -12,7 +12,7 @@ char alphabet;
 for (alphabet = 'a'; alphabet <= 'z'; alphabet++)
 {
 if (alphabet == 'q')
-contnue;
+continue;
       
 else if (alphabet == 'e')
 continue;
@@ -25,4 +25,5 @@ putchar('\n');
 return (0);
 
 }
+
 
