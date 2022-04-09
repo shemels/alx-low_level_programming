@@ -2,7 +2,8 @@
 /**
  * main - entry point
  *
- * return: always 0 (success/correct)
+ * return: always 0
+ * Description: success or correct
  */
 int main(void)
 
@@ -12,7 +13,7 @@ char upper_case;
 
 for (lower_case = 'a'; lower_case <= 'z'; lower_case++)
 {
-putchar(lower_case);
+putchar(lower_case\n);
 }
 for (upper_case = 'A'; upper_case <= 'Z'; upper_case++)
 {
