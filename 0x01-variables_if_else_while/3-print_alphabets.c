@@ -3,6 +3,7 @@
  * main - entry point
  *
  * return: always 0
+ * 
  * Description: success or right
  */
 
@@ -13,8 +14,8 @@ char alphabet;
 for (alphabet = 'a'; alphabet <= 'z'; alphabet++)
 {
 if (alphabet == 'q')
-continue;
-      
+continue;      
+
 else if (alphabet == 'e')
 continue;
 
@@ -26,6 +27,7 @@ putchar('\n');
 return (0);
 
 }
+
 
 
 
