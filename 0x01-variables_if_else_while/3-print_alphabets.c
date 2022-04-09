@@ -5,7 +5,7 @@
  * return: always 0 (succes/correct)
  */
 
-int main(viod)
+int main(void)
 
 {
 char alphabet;
@@ -25,3 +25,4 @@ putchar('\n');
 return (0);
 
 }
+
