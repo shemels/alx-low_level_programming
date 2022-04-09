@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**
  * main - entry point
- * 
  * return: always 0
  * Description: always returns 0( success or right)
  */
