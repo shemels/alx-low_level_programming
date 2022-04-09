@@ -2,7 +2,8 @@
 /**
  * main - entry point
  *
- * return: always 0 (succes/correct)
+ * return: always 0
+ * Description: success or right
  */
 
 int main(void)
@@ -25,5 +26,6 @@ putchar('\n');
 return (0);
 
 }
+
 
 
