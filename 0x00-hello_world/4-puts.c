@@ -1,8 +1,9 @@
 #include <stdio.h>
 /**
  * main - entry point
- * Description: prints words
- * return: always 0 (success)
+ *
+ * return: always 0
+ * Description: success or right
  */
 int main(void)
 {
