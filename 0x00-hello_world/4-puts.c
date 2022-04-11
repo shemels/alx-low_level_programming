@@ -2,12 +2,12 @@
 /**
  * main - entry point
  *
- * return: always 0
+ * Return: Always 0
  * Description: success or right
  */
 int main(void)
 {
-puts("\"programming is like building a multilingual puzzle");
+puts("\"Programming is like building a multilingual puzzle");
 return (0);
 }
 
