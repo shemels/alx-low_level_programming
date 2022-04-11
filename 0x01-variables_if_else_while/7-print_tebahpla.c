@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - entry point
+ * main - Entry point
  *
- * return: always 0
+ * Return: always 0
  * Description: prints the lower case alphabets in reverse
  */
 
