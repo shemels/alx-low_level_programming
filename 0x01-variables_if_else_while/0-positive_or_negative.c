@@ -1,7 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-
 /**
  * main - Entry point.
  *
@@ -23,10 +22,3 @@ else
 printf("%d is zero\n", n);
 return (0);
 }
-
-
-
-
-
-
-  
