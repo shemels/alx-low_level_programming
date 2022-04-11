@@ -6,8 +6,9 @@
  * Return: Always 0
  */
 int main(void)
+
 {
-int digit1, int digit2, int digit3;
+  int digit1, int digit2, int digit3;
 
 for (digit1 = 0; digit1 < 8; digit1++)
 {
