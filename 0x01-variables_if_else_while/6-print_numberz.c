@@ -3,7 +3,6 @@
  * main - entry point
  *
  * Return: Always 0
- * Description: prints all single numbers of base 10 starting from 0
  */
 int main(void)
 
