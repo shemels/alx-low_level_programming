@@ -13,7 +13,7 @@ char upper_case;
 
 for (lower_case = 'a'; lower_case <= 'z'; lower_case++)
 {
-putchar(lower_case\n);
+putchar(lower_case);
 }
 for (upper_case = 'A'; upper_case <= 'Z'; upper_case++)
 {
