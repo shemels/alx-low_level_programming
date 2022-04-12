@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_last_diggit - prints the last digit
+ * print_last_digit - prints the last digit
  * @n: take ln an integer
  * Return: Returns output
  */
@@ -13,4 +13,3 @@ ln = ln * -1;
 _putchar(ln + '0');
 return (ln);
 }
-  
