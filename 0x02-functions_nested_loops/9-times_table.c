@@ -32,7 +32,8 @@ _putchar(k / 10 + '0');
 _putchar(k % 10 + '0');
 }
 }
-_puchar('\n');
+_putchar('\n');
 }
 }
+
 	
