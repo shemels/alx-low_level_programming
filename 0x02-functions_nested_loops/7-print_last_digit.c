@@ -4,7 +4,7 @@
  * @n: take ln an integer
  * Return: Returns output
  */
-int print_last-digit(int c)
+int print_last_digit(int c)
 {
 int ln = n % 10;
 
