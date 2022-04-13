@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_ times_table - prints the time table of the input starting with 0
+ * print_times_table - function prints the time table of the input starting with 0
  * @n: the value of the time table to be printed
  */
 void print_times_table(int n)
@@ -40,4 +40,3 @@ _putchar('\n');
 }
 }
 }
-
