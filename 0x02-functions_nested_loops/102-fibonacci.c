@@ -20,8 +20,8 @@ if (count == 49)
 putchar('\n');
 else
 {
-putchar(' ');
 printf(",");
+putchar(' ');
 }
 }
 return (0);
