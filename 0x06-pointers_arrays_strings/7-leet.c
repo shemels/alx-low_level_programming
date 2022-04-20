@@ -1,26 +1,27 @@
 #include "main.h"
 
 /**
- * leet - function that reverses the content of integers.
+ * leet - Function that reverses the content of an array of integers.
  *
  * @str: s is the array
+ *
  * Return: Always 0.
  */
-char *less(char *str)
+char *leet(char *str)
 {
-  int i = 0, k;
-  char s[] = "aAeEoOtTlL";
-  char s1[] = "4433007711";
+	int i = 0, k;
+	char s[] = "aAeEoOtTlL";
+	char s1[] = "4433007711";
 
-  for ( ; str[i] != '\0'; i++)
-    {
-      for (k = 0; k <= 9; k++)
+	for (; str[i] != '\0'; i++)
 	{
-	  if (s[k] == str[i])
-	    {
-	      str[i] = s1[k];
-	    }
+		for (k = 0; k <= 9; k++)
+		{
+			if (s[k] == str[i])
+			{
+				str[i] = s1[k];
+			}
+		}
 	}
-    }
-  return (str);
+	return (str);
 }
