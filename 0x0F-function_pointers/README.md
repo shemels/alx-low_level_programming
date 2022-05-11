@@ -1,0 +1,1 @@
+This directory contains exercises about functions and pointers.
