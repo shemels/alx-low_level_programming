@@ -1,0 +1,1 @@
+Thit folder contains exercises about more singly linked list.
